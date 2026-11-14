@@ -6,10 +6,10 @@ Hi, I'm Mansour Aziz, founder of Mansour Academy. Senior Computer Engineering st
 
 Most of these repos are private. Happy to show you any of them.
 
-### Flagship
+### My primary products, built by me
 
-- **[Qudra](https://qudra.live)** — Qudurat and Tahsili prep. Lessons, daily quizzes and full mock exams. We've helped more than 100,000 students
-- **[Gainzz](https://gainzz.fit)** — A workout tracker app that acts like a coach. First of its kind on the App Store, with more than 1K active users
+- **[Qudra](https://qudra.live)** — Qudurat and Tahsili prep, running since 2021. Lessons, daily quizzes and full mock exams. We've helped more than 100,000 students
+- **[Gainzz](https://gainzz.fit)** — A workout tracker app that acts like a coach, launched in 2025. First of its kind on the App Store, with more than 1K active users
 
 ### Music
 
