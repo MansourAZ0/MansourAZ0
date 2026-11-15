@@ -11,7 +11,7 @@ Most of these repos are private. Happy to show you any of them.
 - **[Qudra](https://qudra.live)** — Qudurat and Tahsili prep, running since 2021. Lessons, daily quizzes and full mock exams. We've helped more than 100,000 students
 - **[Gainzz](https://gainzz.fit)** — A workout tracker app that acts like a coach, launched in 2025. First of its kind on the App Store, with more than 1K active users
 
-### Music (open source)
+### Music
 
 - **[Ajnas](https://github.com/MansourAZ0/Ajnas)** — Oud practice app for desktop. A Rust audio engine listens through the mic, detects the pitch of each note in real time and maps it onto a 24-step quarter-tone scale, while a Tauri and React UI shows it on the fingerboard
 - **Ajnas for iOS** — Same thing on iPhone, plus slowing down and looping songs to play along
