@@ -4,8 +4,6 @@ Hi, I'm Mansour Aziz, founder of Mansour Academy. Senior Computer Engineering st
 
 ## Current Projects
 
-Most of these repos are private. Happy to show you any of them.
-
 ### My primary products, built by me
 
 - **[Qudra](https://qudra.live)** — Qudurat and Tahsili prep, running since 2021. Lessons, daily quizzes and full mock exams. We've helped more than 100,000 students
