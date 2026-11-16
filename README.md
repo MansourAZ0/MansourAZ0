@@ -13,11 +13,11 @@ Most of these repos are private. Happy to show you any of them.
 
 ### Music
 
-- **[Ajnas](https://github.com/MansourAZ0/Ajnas)** — Oud practice app for desktop. A Rust audio engine listens through the mic, detects the pitch of each note in real time and maps it onto a 24-step quarter-tone scale, while a Tauri and React UI shows it on the fingerboard
+- **[Ajnas](https://github.com/MansourAz0-org/Ajnas)** — Oud practice app for desktop. A Rust audio engine listens through the mic, detects the pitch of each note in real time and maps it onto a 24-step quarter-tone scale, while a Tauri and React UI shows it on the fingerboard
 - **Ajnas for iOS** — Same thing on iPhone, plus slowing down and looping songs to play along
-- **[Watar](https://github.com/MansourAZ0/watar-tuner)** — An oud tuner that understands quarter-tones. Streams mic audio through a pitch detector and shows how many cents you are from the nearest Arabic note
-- **[naghma-core](https://github.com/MansourAZ0/naghma-core)** — The Rust engine behind Watar and Ajnas. Turns a frequency into a note name, octave and cents offset on a 24-tone grid, with oud tunings and maqam data built in
-- **[pitchforge-rs](https://github.com/MansourAZ0/pitchforge-rs)** — Pitch detection in Rust using the YIN algorithm. Finds the fundamental frequency of a single note and reports when it can't find a reliable one
+- **[Watar](https://github.com/MansourAz0-org/watar-tuner)** — An oud tuner that understands quarter-tones. Streams mic audio through a pitch detector and shows how many cents you are from the nearest Arabic note
+- **[naghma-core](https://github.com/MansourAz0-org/naghma-core)** — The Rust engine behind Watar and Ajnas. Turns a frequency into a note name, octave and cents offset on a 24-tone grid, with oud tunings and maqam data built in
+- **[pitchforge-rs](https://github.com/MansourAz0-org/pitchforge-rs)** — Pitch detection in Rust using the YIN algorithm. Finds the fundamental frequency of a single note and reports when it can't find a reliable one
 
 ### Everything Else
 
